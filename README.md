@@ -13,4 +13,4 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9jvbf6z8letp0g1eflk9ryw8u&cover_image=true&theme=novatorem&bar_color=9a0cb6&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=9jvbf6z8letp0g1eflk9ryw8u&redirect=true)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zacz3lk&show_icons=true&locale=en" alt="zacz3lk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zacz3lk&show_icons=true&theme=synthwave&locale=en" alt="zacz3lk" /></p>
